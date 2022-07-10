@@ -1,2 +1,2 @@
-# lc-submissions
+# Leetcode practice
 my leetcode submissions
